@@ -1,0 +1,245 @@
+H:\Portfolio Web Systems\Wine\Wine\bin\ApplicationInsights.config
+H:\Portfolio Web Systems\Wine\Wine\bin\roslyn\csc.exe
+H:\Portfolio Web Systems\Wine\Wine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Portfolio Web Systems\Wine\Wine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Portfolio Web Systems\Wine\Wine\bin\roslyn\System.Collections.Immutable.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\roslyn\System.Reflection.Metadata.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\roslyn\vbc.exe
+H:\Portfolio Web Systems\Wine\Wine\bin\roslyn\VBCSCompiler.exe
+H:\Portfolio Web Systems\Wine\Wine\bin\roslyn\VBCSCompiler.exe.config
+H:\Portfolio Web Systems\Wine\Wine\bin\Wine.dll.config
+H:\Portfolio Web Systems\Wine\Wine\bin\Wine.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Wine.pdb
+H:\Portfolio Web Systems\Wine\Wine\bin\Antlr3.Runtime.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\EntityFramework.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\EntityFramework.SqlServer.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.Agent.Intercept.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.DependencyCollector.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.Web.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.WindowsServer.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.ApplicationInsights.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Google.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Web.Infrastructure.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Newtonsoft.Json.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Owin.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\System.Web.Helpers.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\System.Web.Mvc.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\System.Web.Optimization.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\System.Web.Razor.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\System.Web.WebPages.Deployment.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\System.Web.WebPages.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\System.Web.WebPages.Razor.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\WebGrease.dll
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.DependencyCollector.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.Web.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.WindowsServer.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.ApplicationInsights.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\System.Web.Helpers.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\System.Web.Mvc.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\System.Web.Optimization.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\System.Web.Razor.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\System.Web.WebPages.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\System.Web.WebPages.Deployment.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\System.Web.WebPages.Razor.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\Antlr3.Runtime.pdb
+H:\Portfolio Web Systems\Wine\Wine\bin\Newtonsoft.Json.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\EntityFramework.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\EntityFramework.SqlServer.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Google.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Portfolio Web Systems\Wine\Wine\obj\Debug\Wine.dll
+H:\Portfolio Web Systems\Wine\Wine\obj\Debug\Wine.pdb
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\ApplicationInsights.config
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\roslyn\csc.exe
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\roslyn\vbc.exe
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\roslyn\VBCSCompiler.exe
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Wine.dll.config
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Wine.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Wine.pdb
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Antlr3.Runtime.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\EntityFramework.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\EntityFramework.SqlServer.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.Web.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Newtonsoft.Json.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Owin.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\System.Web.Helpers.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\System.Web.Mvc.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\System.Web.Optimization.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\System.Web.Razor.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\System.Web.WebPages.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\System.Web.WebPages.Razor.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\WebGrease.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.Web.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\System.Web.Helpers.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\System.Web.Mvc.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\System.Web.Optimization.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\System.Web.Razor.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\System.Web.WebPages.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\System.Web.WebPages.Razor.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Antlr3.Runtime.pdb
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Newtonsoft.Json.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\EntityFramework.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\EntityFramework.SqlServer.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\obj\Debug\Wine.dll
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\obj\Debug\Wine.pdb
+C:\Users\ruj\Desktop\Portfolio Web Systems\Wine\Wine\obj\Debug\Wine.csprojResolveAssemblyReference.cache
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\ApplicationInsights.config
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\roslyn\csc.exe
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\roslyn\vbc.exe
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\roslyn\VBCSCompiler.exe
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Wine.dll.config
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Wine.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Wine.pdb
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Antlr3.Runtime.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\EntityFramework.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\EntityFramework.SqlServer.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.Web.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Newtonsoft.Json.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Owin.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\System.Web.Helpers.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\System.Web.Mvc.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\System.Web.Optimization.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\System.Web.Razor.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\System.Web.WebPages.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\System.Web.WebPages.Razor.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\WebGrease.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.Web.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\System.Web.Helpers.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\System.Web.Mvc.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\System.Web.Optimization.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\System.Web.Razor.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\System.Web.WebPages.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\System.Web.WebPages.Razor.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Antlr3.Runtime.pdb
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Newtonsoft.Json.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\EntityFramework.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\EntityFramework.SqlServer.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\obj\Debug\Wine.csprojResolveAssemblyReference.cache
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\obj\Debug\Wine.dll
+C:\Users\ruj\Desktop\NEED TO BE SORTED\Junk\Portfolio Web Systems\Wine\Wine\obj\Debug\Wine.pdb
